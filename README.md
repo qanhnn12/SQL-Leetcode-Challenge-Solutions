@@ -1,4 +1,4 @@
-# SQL Leetcode Solutions
+# SQL Leetcode Challenge Solutions
 
 ## Description
 Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server.
