@@ -31,3 +31,23 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 23 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [Link] | 
 | 24 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Link]
 | 25 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Link] |
+| 26 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Link] |
+| 27 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Link] |
+| 28 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Link] |
+| 29 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Link] |
+| 30 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [Link] |
+| 31 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Link] |
+| 32 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Link] |
+| 33 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Link] |
+| 34 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [Link] |
+| 35 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Link] |
+| 36 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Link] |
+| 37 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [Link] |
+| 38 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Link] |
+| 39 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Link] |
+| 40 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [Link] |
+| 41 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Link] |
+| 42 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [Link] |
+| 43 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [Link] |
+| 44 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [Link] |
+| 45 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [Link] |
