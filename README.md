@@ -6,8 +6,8 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 ## Questions
 | Number| Challenges | Solutions|
 | :---:| --- | :---: |
-| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Link] |
-| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Link] | 
+| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Combine-Two-Tables.sql) |
+| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Second-Highest-Salary.sql) | 
 | 3 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Link] |
 | 4 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Link] | 
 | 5 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Link] | 
