@@ -21,9 +21,9 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 13 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Trips-and-Users.sql) | 
 | 14 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Find-Customer-Referee.sql) | 
 | 15 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Customer-Placing-the-Largest-Number-of-Orders.sql) | 
-| 16 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Link] | 
-| 17 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [Link] | 
-| 18 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Link] | 
+| 16 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Big-Countries.sql) | 
+| 17 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Classes-More-Than-5-Students.sql) | 
+| 18 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Human-Traffic-of-Stadium.sql) | 
 | 19 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Link] | 
 | 20 | [Tree Node](https://leetcode.com/problems/tree-node/) | [Link] | 
 | 21 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Link] | 
