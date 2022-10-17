@@ -19,7 +19,7 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 11 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Delete-Duplicate-Emails.sql) | 
 | 12 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Rising-Temperature.sql) | 
 | 13 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Trips-and-Users.sql) | 
-| 14 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Link] | 
+| 14 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Find-Customer-Referee.sql) | 
 | 15 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Link] | 
 | 16 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Link] | 
 | 17 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [Link] | 
