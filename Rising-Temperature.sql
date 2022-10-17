@@ -2,9 +2,10 @@
 # Method 1:
 SELECT id 
 FROM (
-    SELECT id, temperature, recordDate,
-    LAG(temperature) OVER (ORDER BY recordDate) AS pre_temperature,
-    LAG(recordDate) OVER (ORDER BY recordDate) AS pre_date
+    SELECT 
+        id, temperature, recordDate,
+        LAG(temperature) OVER (ORDER BY recordDate) AS pre_temperature,
+        LAG(recordDate) OVER (ORDER BY recordDate) AS pre_date
     FROM Weather) temp
 WHERE temperature > pre_temperature
   AND DATEDIFF(recordDate, pre_date) = 1;
@@ -20,9 +21,10 @@ AND DATEDIFF(w1.recordDate, w2.recordDate) = 1;
 # Method 1:
 SELECT id 
 FROM (
-    SELECT id, temperature, recordDate,
-    LAG(temperature) OVER (ORDER BY recordDate) AS pre_temperature,
-    LAG(recordDate) OVER (ORDER BY recordDate) AS pre_date
+    SELECT 
+        id, temperature, recordDate,
+        LAG(temperature) OVER (ORDER BY recordDate) AS pre_temperature,
+        LAG(recordDate) OVER (ORDER BY recordDate) AS pre_date
     FROM Weather) temp
 WHERE temperature > pre_temperature
   AND DATEDIFF(d, pre_date, recordDate) = 1;
