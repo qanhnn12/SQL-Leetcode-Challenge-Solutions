@@ -15,7 +15,7 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 7 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Duplicate-Emails.sql) | 
 | 8 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Customers-Who-Never-Order.sql) | 
 | 9 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Department-Highest-Salary.sql) | 
-| 10 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Link] | 
+| 10 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Department-Top-Three-Salaries.sql) | 
 | 11 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [Link] | 
 | 12 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [Link] | 
 | 13 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Link] | 
