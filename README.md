@@ -24,7 +24,7 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 16 | [Big Countries](https://leetcode.com/problems/big-countries/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Big-Countries.sql) | 
 | 17 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Classes-More-Than-5-Students.sql) | 
 | 18 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Human-Traffic-of-Stadium.sql) | 
-| 19 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Link] | 
+| 19 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/tree/main) | 
 | 20 | [Tree Node](https://leetcode.com/problems/tree-node/) | [Link] | 
 | 21 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Link] | 
 | 22 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Link] | 
