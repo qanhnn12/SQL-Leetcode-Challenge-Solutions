@@ -26,10 +26,10 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 18 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Human-Traffic-of-Stadium.sql) | 
 | 19 | [Sales Person](https://leetcode.com/problems/sales-person/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/tree/main) | 
 | 20 | [Tree Node](https://leetcode.com/problems/tree-node/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Tree-Node.sql) | 
-| 21 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Link] | 
-| 22 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Link] | 
-| 23 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [Link] | 
-| 24 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Link]
+| 21 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Not-Boring-Movies.sql) | 
+| 22 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Exchanges-Seats.sql) | 
+| 23 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Swap-Salary.sql) | 
+| 24 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Actors-and-Directors-Who-Cooperated-At-Least-Three-Times.sql)|
 | 25 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Link] |
 | 26 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Link] |
 | 27 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Link] |
