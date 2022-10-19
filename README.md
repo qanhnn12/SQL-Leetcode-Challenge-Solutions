@@ -6,14 +6,14 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 ## Questions
 | Number| Challenges | Solutions|
 | :---:| --- | :---: |
-| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Combine-Two-Tables.sql) |
-| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Second-Highest-Salary.sql) | 
-| 3 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Nth-Highest-Salary.sql) |
-| 4 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Rank-Scores.sql) | 
-| 5 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Consecutive-Numbers.sql) | 
-| 6 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Employees-Earning-More-Than-Their-Managers.sql) | 
-| 7 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Duplicate-Emails.sql) | 
-| 8 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Customers-Who-Never-Order.sql) | 
+| 1 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/175.Combine-Two-Tables.sql) |
+| 2 | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/176.Second-Highest-Salary.sql) | 
+| 3 | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Medium/177.Nth-Highest-Salary.sql) |
+| 4 | [178. Rank Scores](https://leetcode.com/problems/rank-scores/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Medium/178.Rank-Scores.sql) | 
+| 5 | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Medium/180.Consecutive-Numbers.sql) | 
+| 6 | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/181.Employees-Earning-More-Than-Their-Managers.sql) | 
+| 7 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/182.Duplicate-Emails.sql) | 
+| 8 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/183.Customers-Who-Never-Order.sql) | 
 | 9 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Department-Highest-Salary.sql) | 
 | 10 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Department-Top-Three-Salaries.sql) | 
 | 11 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Delete-Duplicate-Emails.sql) | 
