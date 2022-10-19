@@ -38,7 +38,7 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 30 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Reformat-Department-Table.sql) |
 | 31 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Capital-Gain-Loss.sql) |
 | 32 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Top-Travellers.sql) |
-| 33 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Link] |
+| 33 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Group-Sold-Products-By-The-Date.sql) |
 | 34 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [Link] |
 | 35 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Link] |
 | 36 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Link] |
