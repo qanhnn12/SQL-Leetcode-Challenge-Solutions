@@ -33,11 +33,11 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 25 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Sales-Analysis-III.sql) |
 | 26 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Game-Play-Analysis-I.sql) |
 | 27 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/User-Activity-for-the-Past-30-Days-I.sql) |
-| 28 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Link] |
-| 29 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Link] |
-| 30 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [Link] |
-| 31 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Link] |
-| 32 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Link] |
+| 28 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Article-Views-I.sql) |
+| 29 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Market-Analysis-I.sql) |
+| 30 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Reformat-Department-Table.sql) |
+| 31 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Capital-Gain-Loss.sql) |
+| 32 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Top-Travellers.sql) |
 | 33 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Link] |
 | 34 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [Link] |
 | 35 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Link] |
