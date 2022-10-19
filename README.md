@@ -32,15 +32,15 @@ Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL S
 | 23 | [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1527.Patients-With-a-Condition.sql) |
 | 24 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1581.Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql) |
 | 25 | [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1587.Bank-Account-Summary-II.sql) |
-| 26 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [Link] |
-| 27 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Link] |
-| 28 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Link] |
-| 29 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [Link] |
-| 30 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Link] |
-| 31 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [Link] |
-| 32 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [Link] |
-| 33 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [Link] |
-| 34 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [Link] |
+| 26 | [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1667.Fix-Names-in-a-Table.sql) |
+| 27 | [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1693.Daily-Leads-and-Partners.sql) |
+| 28 | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1729.Find-Followers-Count.sql) |
+| 29 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1741.Find-Total-Time-Spent-by-Each-Employee.sql) |
+| 30 | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1757.Recyclable-and-Low-Fat-Products.sql) |
+| 31 | [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1795.Rearrange-Products-Table.sql) |
+| 32 | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1873.Calculate-Special-Bonus.sql) |
+| 33 | [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1890.The-Latest-Login-in-2020.sql) |
+| 34 | [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [Link](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions/blob/main/Easy/1965.Employees-With-Missing-Information.sql) |
 
 ### Medium
 | Number| Challenges | Solutions|
